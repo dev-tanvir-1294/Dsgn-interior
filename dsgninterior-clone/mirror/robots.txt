@@ -1,0 +1,4 @@
+sitemap: https://dsgninterior.se/sitemap.xml
+
+user-agent: *
+allow: /

@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="utf-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://dsgninterior.se/en</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://dsgninterior.se/en" />
+    <xhtml:link rel="alternate" hreflang="sv" href="https://dsgninterior.se/sv" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://dsgninterior.se/sv" />
+    <lastmod>2026-02-25T16:50:59+01:00</lastmod>
+  </url>
+  <url>
+    <loc>https://dsgninterior.se/sv</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://dsgninterior.se/en" />
+    <xhtml:link rel="alternate" hreflang="sv" href="https://dsgninterior.se/sv" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://dsgninterior.se/sv" />
+    <lastmod>2026-02-25T16:50:59+01:00</lastmod>
+  </url>
+  <url>
+    <loc>https://dsgninterior.se/en/projects</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://dsgninterior.se/en/projects" />
+    <xhtml:link rel="alternate" hreflang="sv" href="https://dsgninterior.se/sv/projekt" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://dsgninterior.se/sv/projekt" />
+    <lastmod>2026-02-25T16:50:15+01:00</lastmod>
+  </url>
+  <url>
+    <loc>https://dsgninterior.se/sv/projekt</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://dsgninterior.se/en/projects" />
+    <xhtml:link rel="alternate" hreflang="sv" href="https://dsgninterior.se/sv/projekt" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://dsgninterior.se/sv/projekt" />
+    <lastmod>2026-02-25T16:50:15+01:00</lastmod>
+  </url>
+  <url>
+    <loc>https://dsgninterior.se/en/projects/fellowmind-goteborg</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://dsgninterior.se/en/projects/fellowmind-goteborg" />
+    <xhtml:link rel="alternate" hreflang="sv" href="https://dsgninterior.se/sv/projekt/fellowmind-goteborg" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://dsgninterior.se/sv/projekt/fellowmind-goteborg" />
+    <lastmod>2026-04-30T14:01:48+02:00</lastmod>
+  </url>
+  <url>
+    <loc>https://dsgninterior.se/sv/projekt/fellowmind-goteborg</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://dsgninterior.se/en/projects/fellowmind-goteborg" />
+    <xhtml:link rel="alternate" hreflang="sv" href="https://dsgninterior.se/sv/projekt/fellowmind-goteborg" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://dsgninterior.se/sv/projekt/fellowmind-goteborg" />
+    <lastmod>2026-04-30T14:01:48+02:00</lastmod>
+  </url>
+  <url>
+    <loc>https://dsgninterior.se/en/projects/car-info</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://dsgninterior.se/en/projects/car-info" />
+    <xhtml:link rel="alternate" hreflang="sv" href="https://dsgninterior.se/sv/projekt/car-info" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://dsgninterior.se/sv/projekt/car-info" />
+    <lastmod>2026-04-30T13:18:51+02:00</lastmod>
+  </url>
+  <url>
+    <loc>https://dsgninterior.se/sv/projekt/car-info</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://dsgninterior.se/en/projects/car-info" />
+    <xhtml:link rel="alternate" hreflang="sv" href="https://dsgninterior.se/sv/projekt/car-info" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://dsgninterior.se/sv/projekt/car-info" />
+    <lastmod>2026-04-30T13:18:51+02:00</lastmod>
+  </url>
+  <url>
+    <loc>https://dsgninterior.se/en/projects/stretch-care</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://dsgninterior.se/en/projects/stretch-care" />
+    <xhtml:link rel="alternate" hreflang="sv" href="https://dsgninterior.se/sv/projekt/stretch-care" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://dsgninterior.se/sv/projekt/stretch-care" />
+    <lastmod>2026-02-25T16:54:24+01:00</lastmod>
+  </url>
+  <url>
+    <loc>https://dsgninterior.se/sv/projekt/stretch-care</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://dsgninterior.se/en/projects/stretch-care" />
+    <xhtml:link rel="alternate" hreflang="sv" href="https://dsgninterior.se/sv/projekt/stretch-care" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://dsgninterior.se/sv/projekt/stretch-care" />
+    <lastmod>2026-02-25T16:54:24+01:00</lastmod>
+  </url>
+  <url>
+    <loc>https://dsgninterior.se/en/projects/fellowmind-stockholm</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://dsgninterior.se/en/projects/fellowmind-stockholm" />
+    <xhtml:link rel="alternate" hreflang="sv" href="https://dsgninterior.se/sv/projekt/fellowmind-stockholm" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://dsgninterior.se/sv/projekt/fellowmind-stockholm" />
+    <lastmod>2026-02-25T16:53:06+01:00</lastmod>
+  </url>
+  <url>
+    <loc>https://dsgninterior.se/sv/projekt/fellowmind-stockholm</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://dsgninterior.se/en/projects/fellowmind-stockholm" />
+    <xhtml:link rel="alternate" hreflang="sv" href="https://dsgninterior.se/sv/projekt/fellowmind-stockholm" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://dsgninterior.se/sv/projekt/fellowmind-stockholm" />
+    <lastmod>2026-02-25T16:53:06+01:00</lastmod>
+  </url>
+  <url>
+    <loc>https://dsgninterior.se/en/projects/fellowmind-malmo</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://dsgninterior.se/en/projects/fellowmind-malmo" />
+    <xhtml:link rel="alternate" hreflang="sv" href="https://dsgninterior.se/sv/projekt/fellowmind-malmo" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://dsgninterior.se/sv/projekt/fellowmind-malmo" />
+    <lastmod>2026-04-15T14:21:38+02:00</lastmod>
+  </url>
+  <url>
+    <loc>https://dsgninterior.se/sv/projekt/fellowmind-malmo</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://dsgninterior.se/en/projects/fellowmind-malmo" />
+    <xhtml:link rel="alternate" hreflang="sv" href="https://dsgninterior.se/sv/projekt/fellowmind-malmo" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://dsgninterior.se/sv/projekt/fellowmind-malmo" />
+    <lastmod>2026-04-15T14:21:38+02:00</lastmod>
+  </url>
+  <url>
+    <loc>https://dsgninterior.se/en/projects/fellowmind-jonkoping</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://dsgninterior.se/en/projects/fellowmind-jonkoping" />
+    <xhtml:link rel="alternate" hreflang="sv" href="https://dsgninterior.se/sv/projekt/fellowmind-jonkoping" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://dsgninterior.se/sv/projekt/fellowmind-jonkoping" />
+    <lastmod>2026-04-30T14:34:04+02:00</lastmod>
+  </url>
+  <url>
+    <loc>https://dsgninterior.se/sv/projekt/fellowmind-jonkoping</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://dsgninterior.se/en/projects/fellowmind-jonkoping" />
+    <xhtml:link rel="alternate" hreflang="sv" href="https://dsgninterior.se/sv/projekt/fellowmind-jonkoping" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://dsgninterior.se/sv/projekt/fellowmind-jonkoping" />
+    <lastmod>2026-04-30T14:34:04+02:00</lastmod>
+  </url>
+  <url>
+    <loc>https://dsgninterior.se/en/projects/tarsier</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://dsgninterior.se/en/projects/tarsier" />
+    <xhtml:link rel="alternate" hreflang="sv" href="https://dsgninterior.se/sv/projekt/tarsier" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://dsgninterior.se/sv/projekt/tarsier" />
+    <lastmod>2026-04-15T14:22:26+02:00</lastmod>
+  </url>
+  <url>
+    <loc>https://dsgninterior.se/sv/projekt/tarsier</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://dsgninterior.se/en/projects/tarsier" />
+    <xhtml:link rel="alternate" hreflang="sv" href="https://dsgninterior.se/sv/projekt/tarsier" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://dsgninterior.se/sv/projekt/tarsier" />
+    <lastmod>2026-04-15T14:22:26+02:00</lastmod>
+  </url>
+  <url>
+    <loc>https://dsgninterior.se/en/projects/helo</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://dsgninterior.se/en/projects/helo" />
+    <xhtml:link rel="alternate" hreflang="sv" href="https://dsgninterior.se/sv/projekt/helo" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://dsgninterior.se/sv/projekt/helo" />
+    <lastmod>2026-04-17T13:43:49+02:00</lastmod>
+  </url>
+  <url>
+    <loc>https://dsgninterior.se/sv/projekt/helo</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://dsgninterior.se/en/projects/helo" />
+    <xhtml:link rel="alternate" hreflang="sv" href="https://dsgninterior.se/sv/projekt/helo" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://dsgninterior.se/sv/projekt/helo" />
+    <lastmod>2026-04-17T13:43:49+02:00</lastmod>
+  </url>
+  <url>
+    <loc>https://dsgninterior.se/en/projects/bba</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://dsgninterior.se/en/projects/bba" />
+    <xhtml:link rel="alternate" hreflang="sv" href="https://dsgninterior.se/sv/projekt/bba" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://dsgninterior.se/sv/projekt/bba" />
+    <lastmod>2026-04-28T15:29:14+02:00</lastmod>
+  </url>
+  <url>
+    <loc>https://dsgninterior.se/sv/projekt/bba</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://dsgninterior.se/en/projects/bba" />
+    <xhtml:link rel="alternate" hreflang="sv" href="https://dsgninterior.se/sv/projekt/bba" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://dsgninterior.se/sv/projekt/bba" />
+    <lastmod>2026-04-28T15:29:14+02:00</lastmod>
+  </url>
+  <url>
+    <loc>https://dsgninterior.se/en/projects/stratiteq</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://dsgninterior.se/en/projects/stratiteq" />
+    <xhtml:link rel="alternate" hreflang="sv" href="https://dsgninterior.se/sv/projekt/stratiteq" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://dsgninterior.se/sv/projekt/stratiteq" />
+    <lastmod>2026-04-15T14:23:04+02:00</lastmod>
+  </url>
+  <url>
+    <loc>https://dsgninterior.se/sv/projekt/stratiteq</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://dsgninterior.se/en/projects/stratiteq" />
+    <xhtml:link rel="alternate" hreflang="sv" href="https://dsgninterior.se/sv/projekt/stratiteq" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://dsgninterior.se/sv/projekt/stratiteq" />
+    <lastmod>2026-04-15T14:23:04+02:00</lastmod>
+  </url>
+  <url>
+    <loc>https://dsgninterior.se/en/dsgn-archive</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://dsgninterior.se/en/dsgn-archive" />
+    <xhtml:link rel="alternate" hreflang="sv" href="https://dsgninterior.se/sv/dsgn-archive" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://dsgninterior.se/sv/dsgn-archive" />
+    <lastmod>2026-02-25T16:50:15+01:00</lastmod>
+  </url>
+  <url>
+    <loc>https://dsgninterior.se/sv/dsgn-archive</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://dsgninterior.se/en/dsgn-archive" />
+    <xhtml:link rel="alternate" hreflang="sv" href="https://dsgninterior.se/sv/dsgn-archive" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://dsgninterior.se/sv/dsgn-archive" />
+    <lastmod>2026-02-25T16:50:15+01:00</lastmod>
+  </url>
+  <url>
+    <loc>https://dsgninterior.se/en/office</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://dsgninterior.se/en/office" />
+    <xhtml:link rel="alternate" hreflang="sv" href="https://dsgninterior.se/sv/kontor" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://dsgninterior.se/sv/kontor" />
+    <lastmod>2026-08-18T08:28:46+02:00</lastmod>
+  </url>
+  <url>
+    <loc>https://dsgninterior.se/sv/kontor</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://dsgninterior.se/en/office" />
+    <xhtml:link rel="alternate" hreflang="sv" href="https://dsgninterior.se/sv/kontor" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://dsgninterior.se/sv/kontor" />
+    <lastmod>2026-08-18T08:28:46+02:00</lastmod>
+  </url>
+  <url>
+    <loc>https://dsgninterior.se/en/privacy-policy</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://dsgninterior.se/en/privacy-policy" />
+    <xhtml:link rel="alternate" hreflang="sv" href="https://dsgninterior.se/sv/integritetspolicy" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://dsgninterior.se/sv/integritetspolicy" />
+    <lastmod>2026-02-25T17:20:02+01:00</lastmod>
+  </url>
+  <url>
+    <loc>https://dsgninterior.se/sv/integritetspolicy</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://dsgninterior.se/en/privacy-policy" />
+    <xhtml:link rel="alternate" hreflang="sv" href="https://dsgninterior.se/sv/integritetspolicy" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://dsgninterior.se/sv/integritetspolicy" />
+    <lastmod>2026-02-25T17:20:02+01:00</lastmod>
+  </url>
+  <url>
+    <loc>https://dsgninterior.se/en/legal-notice</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://dsgninterior.se/en/legal-notice" />
+    <xhtml:link rel="alternate" hreflang="sv" href="https://dsgninterior.se/sv/juridisk-information" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://dsgninterior.se/sv/juridisk-information" />
+    <lastmod>2026-02-25T16:50:54+01:00</lastmod>
+  </url>
+  <url>
+    <loc>https://dsgninterior.se/sv/juridisk-information</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://dsgninterior.se/en/legal-notice" />
+    <xhtml:link rel="alternate" hreflang="sv" href="https://dsgninterior.se/sv/juridisk-information" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://dsgninterior.se/sv/juridisk-information" />
+    <lastmod>2026-02-25T16:50:54+01:00</lastmod>
+  </url>
+</urlset>

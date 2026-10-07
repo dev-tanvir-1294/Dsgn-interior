@@ -1,0 +1,74 @@
+[
+  {
+    "tpl": "home",
+    "rel": "en/index.html",
+    "pageClass": "homepage welcome page-home",
+    "sections": [
+      "01-header",
+      "02-home-banners",
+      "03-footer"
+    ]
+  },
+  {
+    "tpl": "works",
+    "rel": "en/projects/index.html",
+    "pageClass": "page page-works",
+    "sections": [
+      "01-header",
+      "02-sr",
+      "03-works-grid",
+      "04-footer"
+    ]
+  },
+  {
+    "tpl": "work",
+    "rel": "en/projects/tarsier/index.html",
+    "pageClass": "page page-work",
+    "sections": [
+      "01-header",
+      "02-banner",
+      "03-work-texts",
+      "04-work-gallery",
+      "05-work-credits",
+      "06-work-related",
+      "07-footer"
+    ]
+  },
+  {
+    "tpl": "archive",
+    "rel": "en/dsgn-archive/index.html",
+    "pageClass": "page page-archives",
+    "sections": [
+      "01-header",
+      "02-archives-header",
+      "03-archives-grid",
+      "04-footer"
+    ]
+  },
+  {
+    "tpl": "office",
+    "rel": "en/office/index.html",
+    "pageClass": "page page-office",
+    "sections": [
+      "01-header",
+      "02-sr",
+      "03-section-presentation",
+      "04-section-team",
+      "05-section-services",
+      "06-section-process",
+      "07-section-contact",
+      "08-footer"
+    ]
+  },
+  {
+    "tpl": "default",
+    "rel": "en/privacy-policy/index.html",
+    "pageClass": "page page-default",
+    "sections": [
+      "01-header",
+      "02-default-header",
+      "03-page-content",
+      "04-footer"
+    ]
+  }
+]

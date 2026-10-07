@@ -1,0 +1,8 @@
+/* dsgn interior — makes section/page blocks render correctly WITHOUT the site JS.
+   Enqueue this after dsgn-styles.css. It only overrides the JS-driven fade-in states. */
+.welcome .home-banners,
+.welcome .header,
+.welcome .footer,
+.welcome header.banner .split,
+.welcome header.banner .split div { opacity: 1 !important; }
+.work-banner img, .work-banner video { opacity: 1 !important; }
