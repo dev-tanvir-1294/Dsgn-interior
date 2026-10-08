@@ -1,0 +1,17 @@
+/*
+Theme Name: dsgn interior
+Theme URI: https://dsgninterior.se
+Author: dsgn interior
+Author URI: https://dsgninterior.se
+Description: Custom WordPress theme for dsgn interior. Reproduces the site design (Cera Pro, warm paper background, terracotta accent) with GSAP + Lenis smooth scroll + Swiper, and full WooCommerce support.
+Version: 1.0.0
+Requires at least: 6.5
+Tested up to: 6.7
+Requires PHP: 7.4
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: dsgn
+Tags: interior-design, portfolio, woocommerce, e-commerce
+*/
+
+/* The actual design CSS is enqueued from assets/dsgn-styles.css by functions.php. */
