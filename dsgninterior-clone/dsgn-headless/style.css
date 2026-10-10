@@ -1,0 +1,18 @@
+/*
+Theme Name: dsgn interior — Headless
+Theme URI: https://dsgninterior.se
+Author: dsgn interior
+Author URI: https://dsgninterior.se
+Description: Headless child theme for the dsgn interior site. WordPress is the content backend only (REST API); the public frontend is a separate Next.js app. Registers the Project post type, exposes menus / site settings / media via REST, and optionally redirects the front-end to the Next.js app.
+Template: hello-elementor
+Version: 1.0.0
+Requires at least: 6.0
+Tested up to: 6.7
+Requires PHP: 7.4
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: dsgn-headless
+Tags: headless, rest-api, portfolio
+*/
+
+/* No CSS here — the frontend (Next.js) owns all styling. */

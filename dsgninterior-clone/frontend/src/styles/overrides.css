@@ -1,0 +1,26 @@
+/*
+ * dsgn frontend overrides.
+ *
+ * Loaded after dsgn-styles.css and dsgn-standalone.css. Only contains small
+ * adjustments needed because the React frontend reimplements the original JS:
+ */
+
+/* WordPress serves colour images only, so the "gray" duotone layer is faked
+   with a grayscale filter (the original used pre-rendered B&W files). */
+.duotone .img-gray img {
+  filter: grayscale(100%);
+}
+
+/* Smooth the menu overlay/links when toggled via React state. */
+.menu {
+  transition: transform 0.6s var(--ease-out, ease);
+}
+.menu:before {
+  transition: transform 0.6s var(--ease-out, ease);
+}
+.menu-links a {
+  transition: opacity 0.4s var(--ease-out, ease);
+}
+.menu-toggle span {
+  transition: opacity 0.3s ease;
+}
